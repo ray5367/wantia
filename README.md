@@ -1,0 +1,2 @@
+# wantia
+tea testnet
